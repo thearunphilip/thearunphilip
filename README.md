@@ -16,6 +16,5 @@ Expertise: **HFT, RL/ML for finance, algo trading, portfolio optimization**.
 - **🔮 ML Market Predictor (Python)**: Price forecasting with Scikit-learn/TensorFlow  
 
 ### 🌟 Let’s collaborate on HFT, ML, or algo trading!  
-📫 **Reach out**: [Your Contact Info]  
 
 *"Code fast, trade smart, live bold!"* 🚀  
