@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @thearunphilip  
-**🚀 Quant Developer | HFT & Investment Specialist** | Based in **Dubai, UAE** 🌴  
+🚀 Quant Developer | HFT | HNI Investment Consultant | Based in Dubai, UAE 🌴  
 
 ### 👨‍💻 About Me  
 Quant dev building **ultra-low-latency HFT systems** & **ML-driven strategies** in Rust 🦀 & Python 🐍.  
